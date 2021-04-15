@@ -1,0 +1,4 @@
+# Services file and directory exclude
+######################
+
+nvrservicesjws/target/*
